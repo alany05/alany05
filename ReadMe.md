@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Faço faculdade de Sistemas de Informação<br>• Estou aprendendo programação com foco em Front end<br>• Atualmente estudando C++ e Python<br>• Em busca de Estágio<br>
+• Faço faculdade de Sistemas de Informação<br>• Estou aprendendo programação full-stack<br>• Atualmente estudando C++ e Python<br>• Em busca de Estágio<br>
 
 
 ## 🌐 Socials:
